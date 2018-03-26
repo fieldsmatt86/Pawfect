@@ -10,7 +10,7 @@ class products extends Component {
       <div>
            <div className= "top">
         <div className= "logo"></div>
-        <div className= "motto">The perfect treats for your Dogs</div>
+        <div className= "motto">The perfect treats for your Dogs!!!</div>
         </div>
         <header className="App-header">
           <Link className= "tab" to="/">Home</Link>
@@ -18,10 +18,29 @@ class products extends Component {
            <Link className= "tab"  to="/products">Products</Link>
           <Link className= "tab"  to="/contactus">Contact Us</Link> 
         </header>
-       
-        <div className= "body">
-          Information for the home screen goes here ...............
-        </div>
+          <div className= "body">
+            <div className="leftbar"> 
+             
+            </div>
+            <div className="productbody"> 
+            <div className="block"></div> 
+            <div className="block"></div>
+             <div className="block"></div>
+              <div className="block"></div>
+             <div className="block"></div>
+              <div className="block"></div>
+               <div className="block"></div>
+                <div className="block"></div>
+                 <div className="block"></div>
+                  <div className="block"></div>
+                   <div className="block"></div>
+                   <div className="block"></div>
+
+           
+            </div>
+           
+    </div>
+     
 
          <div className= "footer">
           Information for the footer goes here ...............

@@ -10,7 +10,7 @@ class contactus extends Component {
       <div>
            <div className= "top">
         <div className= "logo"></div>
-        <div className= "motto">The perfect treats for your Dogs</div>
+        <div className= "motto">The perfect treats for your Dogs!!!</div>
         </div>
         <header className="App-header">
           <Link className= "tab" to="/">Home</Link>
@@ -19,9 +19,15 @@ class contactus extends Component {
           <Link className= "tab"  to="/contactus">Contact Us</Link> 
         </header>
        
-        <div className= "body">
-            <div className= "body-contactus"></div>
-        </div>
+       <div className= "bodyhome">
+            <div className="leftbar"> 
+              
+            </div>
+            <div className="body"> 
+            </div>
+            <div className="rightbar">
+            </div>
+    </div>
 
          <div className= "footer">
           Information for the footer goes here ...............

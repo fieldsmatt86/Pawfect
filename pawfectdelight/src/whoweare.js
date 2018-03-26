@@ -10,7 +10,7 @@ class whoweare extends Component {
       <div>
            <div className= "top">
         <div className= "logo"></div>
-        <div className= "motto">The perfect treats for your Dogs</div>
+        <div className= "motto">The perfect treats for your Dogs!!!</div>
         </div>
         <header className="App-header">
           <Link className= "tab" to="/">Home</Link>
@@ -20,7 +20,10 @@ class whoweare extends Component {
         </header>
        
         <div className= "body">
-          Information for the home screen goes here ...............
+            <div className="leftbar"> 
+             </div>
+             <div className="whowearebody">
+               </div>
         </div>
 
          <div className= "footer">
